@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shazib-syed&label=Profile%20views&color=0e75b6&style=flat" alt="shazib-syed" /> </p>
 
-- 🌱 I’m currently learning **Nodejs,react,C#**
+- 🌱 I’m currently learning **Nodejs, react, C#**
 
 - 👀 I’m interested in **Web development**
 
