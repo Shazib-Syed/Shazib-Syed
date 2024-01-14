@@ -19,8 +19,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shazib-syed&show_icons=true&locale=en&layout=compact" alt="shazib-syed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shazib-syed&show_icons=true&locale=en" alt="shazib-syed" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shazib-syed&" alt="shazib-syed" /></p>
 
 
