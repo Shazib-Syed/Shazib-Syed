@@ -5,10 +5,14 @@
 
 🔭I'm currently working on PHP project **Weather Scraper**.<br>🌱I'm currently learning **Laravel**.<br>👀I’m interested in **Backend development**.<br>📫How to reach me, **syedshahm20@gmail.com**
 
+## 💼 Portfolio:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shazib-syed-portfolio.42web.io/)
+
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shazib-ahmad/)<br>
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shazib-syed-portfolio.42web.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shazib-ahmad/)
+
 
 
 
