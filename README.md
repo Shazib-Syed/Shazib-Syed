@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-🔭I'm currently working on PHP project **Weather Scraper**.<br>🌱I'm currently learning **Laravel**.<br>👀I’m interested in **Backend development**.<br>📫How to reach me, **syedshahm20@gmail.com**
+🔭I'm currently working on PHP project **Weather Scraper**.<br>🌱I'm currently learning **Laravel**.<br>👀I’m interested in **Backend development**.<br>📫How to reach me, **www.linkedin.com/in/shazib-ahmad**
 
 ## 💼 Portfolio:
 
