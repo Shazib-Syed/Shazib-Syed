@@ -6,9 +6,9 @@
 🔭I'm currently working on PHP project **Weather Scraper**.<br>🌱I'm currently learning **Laravel**.<br>👀I’m interested in **Backend development**.<br>📫How to reach me, <a href="https://www.linkedin.com/in/shazib-ahmad">linkedin/Shazib Ahmad</a>
 
 
-## 💼 Portfolio:
+<!--## 💼 Portfolio:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shazib-syed-portfolio.42web.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shazib-syed-portfolio.42web.io/) -->
 
 ## 🌐 Socials:
 
